@@ -1,0 +1,1 @@
+curl -X POST -HContent-type:application/xml -d @employee.xml "http://localhost:9443/rest/employee"
